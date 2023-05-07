@@ -1,0 +1,12 @@
+django
+selenium
+opencv-python
+pyautogui
+cssutils
+googlesearch-python
+beautifulsoup4
+requests
+webdriver_manager
+json2html
+dicttoxml
+numpy
